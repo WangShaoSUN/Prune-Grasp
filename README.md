@@ -5,8 +5,8 @@ the better the model’s real-time and accuracy performance.
 ![KITTI](fig/workspace.png)
 
 ### Grasping video
-![image](fig/fig/23.gif)
-![image](fig/fig/23.gif)
+![image](fig/23.gif)
+![image](fig/24.gif)
 
 ## Supplementary experiments
 
