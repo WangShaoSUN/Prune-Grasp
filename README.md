@@ -6,7 +6,7 @@ the better the model’s real-time and accuracy performance.
 
 ### Grasping video
 ![image](fig/11.gif)
-![image](fig/22.gif)
+![image](fig/23.gif)
 
 ## Supplementary experiments
 
